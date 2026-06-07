@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪪 Validador de CPF
+# Validador de CPF
 
 *Implementação do algoritmo oficial da Receita Federal em Python puro*
 
